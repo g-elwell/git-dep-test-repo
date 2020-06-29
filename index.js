@@ -1,5 +1,4 @@
 function test() {
-  return console.log("version 1.0.0");
+  return console.log("version 1.0.1");
 }
-
-export default test;
+module.exports = test;
